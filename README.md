@@ -4,9 +4,7 @@
 
 <div align=center>
   <h1>Yo!</h1>
-  <h4>&nbsp;I'm an Ethical Hacker and Full Stack Developer (Android/Web).<br/>My pronouns are He/Him, I'm currently working on bug bounties and learning Rust&nbsp;</h4>
-  <h4>You can usually contact me at:</h4>
-  <h4>xoanouteirosecurity@proton.me</h4>
+  <h4>This is an student account, not my primary one</h4>
 </div>
 
 <h1></h1> <!-- yeah, using h1 is sketchy but separators are too thick -->
